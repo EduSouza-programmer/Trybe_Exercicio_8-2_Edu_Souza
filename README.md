@@ -72,7 +72,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 #### Resposta:
 
 <details>
- <summary> :calling: Código Javascript</summary>
+ <summary> :mortar_board: Código Javascript</summary>
 
 ```js
 
