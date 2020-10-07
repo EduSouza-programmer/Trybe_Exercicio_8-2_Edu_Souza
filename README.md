@@ -57,12 +57,6 @@ Com este exercício, você será capaz de:
 
 - <p><a href="#7"> :pushpin: 7.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
 
-### **_Projetos_**
-
-- <p><a href="#Project_1">Projeto_1:</a> Convite de evento;</p>
-
-#
-
 ## :books: Exercícios
 
 ### 1°
