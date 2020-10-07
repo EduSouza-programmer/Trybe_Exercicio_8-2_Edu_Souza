@@ -28,8 +28,8 @@
 
 <p align="center">
   <a href="#rocket-Sobre-o-Exercício">Sobre o Exercício</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#Entrega">Entrega</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#Licença">Licença</a>
+  <a href="#postbox-Entrega">Entrega</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#white_check_mark-Licença">Licença</a>
 </p>
 
 # :rocket: Sobre o Exercício
@@ -63,7 +63,7 @@ Com este exercício, você será capaz de:
 
 #
 
-## :pencil2: Exercícios [Meus códigos]
+## :pencil2: Exercícios
 
 ### 1°
 
@@ -123,7 +123,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 </details>
 
 <p align="right">
-    <a href="#Sumário">
+    <a href="#clipboard-Sumário">
     <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
   </a>
 </p>
@@ -144,7 +144,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 </details>
 
 <p align="right">
-    <a href="#Sumário">
+    <a href="#clipboard-Sumário">
     <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
   </a>
 </p>
@@ -165,7 +165,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 </details>
 
 <p align="right">
-    <a href="#Sumário">
+    <a href="#clipboard-Sumário">
     <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
   </a>
 </p>
@@ -186,7 +186,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 </details>
 
 <p align="right">
-    <a href="#Sumário">
+    <a href="#clipboard-Sumário">
     <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
   </a>
 </p>
@@ -207,7 +207,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 </details>
 
 <p align="right">
-    <a href="#Sumário">
+    <a href="#clipboard-Sumário">
     <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
   </a>
 </p>
