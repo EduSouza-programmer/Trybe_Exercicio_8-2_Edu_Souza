@@ -77,5 +77,5 @@ function formatedBookNames() {
     (book) => `${book.name} - ${book.genre} - ${book.author.name}`
   );
 }
-// console.log(formatedBookNames());
+
 assert.deepStrictEqual(formatedBookNames(), expected_result);
