@@ -63,7 +63,7 @@ Com este exercício, você será capaz de:
 
 #
 
-## :pencil2: Exercícios
+## :books: Exercícios
 
 ### 1°
 
@@ -72,7 +72,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 #### Resposta:
 
 <details>
- <summary> :mortar_board: Código Javascript</summary>
+ <summary> :pencil2: Código Javascript</summary>
 
 ```js
 
@@ -93,7 +93,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 #### Resposta:
 
 <details>
- <summary>Código Javascript</summary>
+ <summary> :pencil2: Código Javascript</summary>
 
 ```js
 
@@ -114,7 +114,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 #### Resposta:
 
 <details>
- <summary>Código Javascript</summary>
+ <summary> :pencil2: Código Javascript</summary>
 
 ```js
 
@@ -135,7 +135,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 #### Resposta:
 
 <details>
- <summary>Código Javascript</summary>
+ <summary> :pencil2: Código Javascript</summary>
 
 ```js
 
@@ -156,7 +156,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 #### Resposta:
 
 <details>
- <summary>Código Javascript</summary>
+ <summary> :pencil2: Código Javascript</summary>
 
 ```js
 
@@ -177,7 +177,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 #### Resposta:
 
 <details>
- <summary>Código Javascript</summary>
+ <summary> :pencil2: Código Javascript</summary>
 
 ```js
 
@@ -198,7 +198,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 #### Resposta:
 
 <details>
- <summary>Código Javascript</summary>
+ <summary> :pencil2: Código Javascript</summary>
 
 ```js
 
