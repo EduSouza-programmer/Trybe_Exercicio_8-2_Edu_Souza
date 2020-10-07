@@ -39,23 +39,23 @@ Com este exercício, você será capaz de:
 
 #
 
-# Entrega
+# :postbox: Entrega
 
-### :postbox: Sumário
+### :clipboard: Sumário
 
-- <p><a href="#1">1.</a> Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_PESSOA_AUTORA;</p>
+- <p><a href="#1"> :pushpin: 1.</a> Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_PESSOA_AUTORA;</p>
 
-- <p><a href="#2"> :bookmark: 2.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
+- <p><a href="#2"> :pushpin: 2.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
 
-- <p><a href="#3">3.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
+- <p><a href="#3"> :pushpin: 3.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
 
-- <p><a href="#4">4.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
+- <p><a href="#4"> :pushpin: 4.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
 
-- <p><a href="#5">5.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
+- <p><a href="#5"> :pushpin: 5.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
 
-- <p><a href="#6">6.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
+- <p><a href="#6"> :pushpin: 6.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
 
-- <p><a href="#7">7.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
+- <p><a href="#7"> :pushpin: 7.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
 
 ### **_Projetos_**
 
@@ -63,7 +63,7 @@ Com este exercício, você será capaz de:
 
 #
 
-## Exercícios [Meus códigos]
+## :pencil2: Exercícios [Meus códigos]
 
 ### 1°
 
@@ -81,7 +81,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 </details>
 
 <p align="right">
-    <a href="#Sumário">
+    <a href="#clipboard-Sumário">
     <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
   </a>
 </p>
@@ -102,7 +102,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 </details>
 
 <p align="right">
-    <a href="#Sumário">
+    <a href="#clipboard-Sumário">
     <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
   </a>
 </p>
@@ -214,6 +214,6 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 
 #
 
-## Licença
+## :white_check_mark: Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte [LICENSE](https://opensource.org/licenses/MIT) para maiores detalhes.
