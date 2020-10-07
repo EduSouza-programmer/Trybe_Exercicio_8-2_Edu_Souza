@@ -37,8 +37,6 @@
 Hoje vamos finalizar a primeira versão do seu Portfólio Web adicionando seletores e CSS de layout.
 Com este exercício, você será capaz de:
 
-#
-
 # :postbox: Entrega
 
 ### :clipboard: Sumário
@@ -205,8 +203,6 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
     <img alt="Back Sumário" src="https://img.shields.io/badge/Back-Sum%C3%A1rio-orange">
   </a>
 </p>
-
-#
 
 ## :unlock: Licença
 
