@@ -43,7 +43,7 @@ Com este exercício, você será capaz de:
 
 ### Sumário
 
-- <p><a href="#1">1.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
+- <p><a href="#1">1.</a> Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_PESSOA_AUTORA;</p>
 
 - <p><a href="#2">2.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
 
@@ -66,6 +66,8 @@ Com este exercício, você será capaz de:
 ## Exercícios [Meus códigos]
 
 ### 1°
+
+Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_PESSOA_AUTORA.
 
 #### Resposta:
 
