@@ -29,7 +29,7 @@
 <p align="center">
   <a href="#rocket-Sobre-o-Exercício">Sobre o Exercício</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#postbox-Entrega">Entrega</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#white_check_mark-Licença">Licença</a>
+  <a href="#unlock-Licença">Licença</a>
 </p>
 
 # :rocket: Sobre o Exercício
@@ -72,7 +72,7 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 #### Resposta:
 
 <details>
- <summary>Código Javascript</summary>
+ <summary>:pencil: Código Javascript</summary>
 
 ```js
 
@@ -214,6 +214,6 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 
 #
 
-## :white_check_mark: Licença
+## :unlock: Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte [LICENSE](https://opensource.org/licenses/MIT) para maiores detalhes.
