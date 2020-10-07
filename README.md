@@ -34,8 +34,8 @@
 
 # :rocket: Sobre o Exercício
 
-Hoje vamos finalizar a primeira versão do seu Portfólio Web adicionando seletores e CSS de layout.
-Com este exercício, você será capaz de:
+Nos exercícios a seguir, você trabalhará com uma estrutura de dados representando uma lista de livros, contendo informações como nome do livro, gênero, pessoa autora do livro e data de lançamento.
+Sua solução só será considerada correta se todos os asserts do arquivo forem executados sem erros. No Visual Studio Code, você pode executar o código do exemplo clicando com o botão direito e escolhando a opção Run Code.
 
 # :postbox: Entrega
 
@@ -43,7 +43,7 @@ Com este exercício, você será capaz de:
 
 - <p><a href="#1"> :pushpin: 1.</a> Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_PESSOA_AUTORA;</p>
 
-- <p><a href="#2"> :pushpin: 2.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
+- <p><a href="#2"> :pushpin: 2.</a> Construa um array de objetos a partir do array de livros. Cada objeto deve conter uma propriedade author, com o nome da pessoa autora do livro, e uma propriedade age com a idade dessa pessoa quando o livro foi lançado. O array deve ser ordenado por idade, ou seja, da pessoa mais jovem para a mais velha considerando suas idades quando o livro foi lançado;</p>
 
 - <p><a href="#3"> :pushpin: 3.</a> Desafio: O modelo boxer - Adicione bordas, Margem e Espaçamento;</p>
 
@@ -67,7 +67,87 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
  <summary> :pencil2: Código Javascript</summary>
 
 ```js
+const assert = require("assert");
 
+const books = [
+	{
+		id: 1,
+		name: "As Crônicas de Gelo e Fogo",
+		genre: "Fantasia",
+		author: {
+			name: "George R. R. Martin",
+			birthYear: 1948,
+		},
+		releaseYear: 1991,
+	},
+	{
+		id: 2,
+		name: "O Senhor dos Anéis",
+		genre: "Fantasia",
+		author: {
+			name: "J. R. R. Tolkien",
+			birthYear: 1892,
+		},
+		releaseYear: 1954,
+	},
+	{
+		id: 3,
+		name: "Fundação",
+		genre: "Ficção Científica",
+		author: {
+			name: "Isaac Asimov",
+			birthYear: 1920,
+		},
+		releaseYear: 1951,
+	},
+	{
+		id: 4,
+		name: "Duna",
+		genre: "Ficção Científica",
+		author: {
+			name: "Frank Herbert",
+			birthYear: 1920,
+		},
+		releaseYear: 1965,
+	},
+	{
+		id: 5,
+		name: "A Coisa",
+		genre: "Terror",
+		author: {
+			name: "Stephen King",
+			birthYear: 1947,
+		},
+		releaseYear: 1986,
+	},
+	{
+		id: 6,
+		name: "O Chamado de Cthulhu",
+		genre: "Terror",
+		author: {
+			name: "H. P. Lovecraft",
+			birthYear: 1890,
+		},
+		releaseYear: 1928,
+	},
+];
+
+const expected_result = [
+	"As Crônicas de Gelo e Fogo - Fantasia - George R. R. Martin",
+	"O Senhor dos Anéis - Fantasia - J. R. R. Tolkien",
+	"Fundação - Ficção Científica - Isaac Asimov",
+	"Duna - Ficção Científica - Frank Herbert",
+	"A Coisa - Terror - Stephen King",
+	"O Chamado de Cthulhu - Terror - H. P. Lovecraft",
+];
+
+function formatedBookNames() {
+	return books.map(
+		(book) => `${book.name} - ${book.genre} - ${book.author.name}`
+	);
+}
+// show
+assert.deepStrictEqual(formatedBookNames(), expected_result);
 ```
 
 </details>
@@ -81,6 +161,8 @@ Crie um array com strings no formato NOME_DO_LIVRO - GÊNERO_DO_LIVRO - NOME_DA_
 #
 
 ### 2°
+
+Construa um array de objetos a partir do array de livros. Cada objeto deve conter uma propriedade author, com o nome da pessoa autora do livro, e uma propriedade age com a idade dessa pessoa quando o livro foi lançado. O array deve ser ordenado por idade, ou seja, da pessoa mais jovem para a mais velha considerando suas idades quando o livro foi lançado.
 
 #### Resposta:
 
